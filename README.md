@@ -13,6 +13,8 @@ I am a _student_ who loves programming and sleeping. My alias is Nandroid, becau
 
 **Get in touch**
 
-Instagram: @pnani18dec, 
-📫 Email: pnani18dec@gmail.com. 
+Instagram: @pnani18dec
+
+📫 Email: pnani18dec@gmail.com
+
 😝 If you are a weird guy like me, pull any of my repo and text me through a PR :P
