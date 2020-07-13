@@ -1,5 +1,5 @@
-### Hi there 👋
-**P Nani -- nani67**
+
+### P Nani -- nani67
 
 I am a _student_ who loves programming and sleeping. My alias is Nandroid, because I started my love for programming through Android app development. I thought to add more info but my brain was eaten by a Zombie. 
 
