@@ -22,7 +22,7 @@ Instagram: @pnani18dec
 
 **Some things which I did**
 
-- Winner of Smart India Hackathon 2020.
+- Winner of Smart India Hackathon 2019.
 - Participant of Singapore India Hackathon 2019.
 - Finalist of Smart India Hackathon 2020.
 - Arctic Code Vault Contributor.
