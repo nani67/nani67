@@ -19,4 +19,10 @@ Instagram: @pnani18dec
 
 😝 If you are a weird guy like me, pull any of my repo and text me through a PR :P
 
-By the way, I'm an Arctic Code Vault Contributor too. 
+
+**Some things which I did**
+
+- Winner of Smart India Hackathon 2020.
+- Participant of Singapore India Hackathon 2019.
+- Finalist of Smart India Hackathon 2020.
+- Arctic Code Vault Contributor.
