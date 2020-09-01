@@ -20,9 +20,12 @@ Instagram: @pnani18dec
 😝 If you are a weird guy like me, pull any of my repo and text me through a PR :P
 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nani67)](https://github.com/nani67/github-readme-stats)
+
 **Some things which I did**
 
 - Winner of Smart India Hackathon 2019.
 - Participant of Singapore India Hackathon 2019.
 - Finalist of Smart India Hackathon 2020.
 - Arctic Code Vault Contributor.
+- Participant of Flutter Clock Challenge
