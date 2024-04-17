@@ -1,27 +1,29 @@
 
-### P Nani -- nani67
+### Penumala Nani
 
-I am a _student_ who loves programming. My alias is Nandroid, because I started my love for programming through Android app development. I thought to add more info but my brain was eaten by a Zombie and a Vampire. 
+I am a _student_ who loves programming. My alias is Nandroid because I started my love for programming through Android app development. 
+_Everything in this world is either a duck or not a duck_
 
-**Some things which describes me:**
+**Some things that describe me:**
 
-- 🔭 Placed at Cloud Maven.
-- 🌱 I'm learning Flutter, React.
-- 👯 II love collaborating with anyone. But I'm kinda shy.
-- 💬 Ask me about Flutter, Dialogflow, Firebase, AWS, Salesforce and some stuff you might find interesting.
-- ⚡ Fact: I'm still single.
+- Studying at NIT Agartala
+- I'm learning Salesforce and Data Science
+- Love collaborating with others on tasks, seminars, projects, or whatever is useful for us.
+- Ask me about Salesforce, Flutter, Dialogflow, Firebase, and some stuff you might find interesting.
+- Fact: A group of crows is called murder. I love murder.
 
 **Get in touch**
 
-Instagram: I don't remember.
-
-📫 Email: pnani18dec@gmail.com
-
-😝 Telegram: @NaniNandroid
+Instagram: @nandroid67
+LinkedIn: linkedin.com/in/penumalanani
+Facebook: Penumala Nani
+WhatsApp: +918*******78
+Email: pnani18dec@gmail.com
+Telegram: NaniNandroid
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nani67)](https://github.com/nani67/github-readme-stats)
 
-**Some things which I did**
+**Some things which I did/doing**
 
 - Winner of Smart India Hackathon 2019.
 - Participant of Singapore India Hackathon 2019.
@@ -29,4 +31,9 @@ Instagram: I don't remember.
 - Arctic Code Vault Contributor.
 - Participant of Flutter Clock Challenge.
 - Developed Multiple websites.
+- Worked as Salesforce Developer with 3+ years of experience.
 - Teaching.
+
+- Learning Bengali and Japanese.
+- Focusing on Data Science.
+- I can cook.
