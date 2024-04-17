@@ -14,12 +14,12 @@ _Everything in this world is either a duck or not a duck_
 
 **Get in touch**
 
-Instagram: @nandroid67.
-LinkedIn: linkedin.com/in/penumalanani.
-Facebook: Penumala Nani.
-WhatsApp: +918*******78.
-Email: pnani18dec@gmail.com.
-Telegram: NaniNandroid.
+Instagram: @nandroid67\
+LinkedIn: linkedin.com/in/penumalanani\
+Facebook: Penumala Nani\
+WhatsApp: +918*******78\
+Email: pnani18dec@gmail.com\
+Telegram: NaniNandroid\
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nani67)](https://github.com/nani67/github-readme-stats)
 
